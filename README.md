@@ -1,4 +1,2 @@
 # ABOUT_ME
-
- !
- 
+HELLO!
